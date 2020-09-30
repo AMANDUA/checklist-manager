@@ -4,7 +4,9 @@
 
 ![image](https://user-images.githubusercontent.com/17237753/94659576-5bf63700-02b9-11eb-9f25-1f5e66256341.png)
 
+**RUN**
 
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.<br />
