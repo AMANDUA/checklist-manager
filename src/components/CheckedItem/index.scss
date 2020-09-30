@@ -1,0 +1,14 @@
+.selected-item {
+    border: 1px solid gray;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    width: 400px;
+    border-radius: 4px;
+    background: gray;
+    margin: 4px;
+
+    & button {
+        cursor: pointer;
+    }
+}

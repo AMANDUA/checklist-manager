@@ -1,0 +1,21 @@
+.app-body {
+    display: flex;
+    height: 100vh;
+}
+
+.check-list-wrapper,
+.checked-values-wrapper {
+    width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkbox-list,
+.checkedList-section,
+.default-section {
+    border: 1px solid gray;
+    border-radius: 6px;
+    padding: 8px;
+    background: rosybrown;
+}
